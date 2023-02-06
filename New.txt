@@ -4,8 +4,5 @@ File has been edited in a localdisk
 ))
 push
 321
-<<<<<<< HEAD
 Egited in the Second_Branch branch
-=======
 Edited on the GitHub
->>>>>>> e13b59d0faf780db4827aeae19c229bba91b111c
